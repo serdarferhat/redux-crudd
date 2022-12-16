@@ -1,0 +1,28 @@
+{
+  "students": [
+    {
+      "id": "1670699075438",
+      "name": "ASIM",
+      "surname": "SERDAR",
+      "number": "100",
+      "stdClass": "1/A",
+      "school": "CUMHURIYET I.Ö.O"
+    },
+    {
+      "id": "1671028061756",
+      "name": "METEHAN",
+      "surname": "BERK",
+      "number": "101",
+      "stdClass": "1/C",
+      "school": "M.KEMAL I.Ö.O"
+    },
+    {
+      "id": "1671118164130",
+      "name": "AKIF",
+      "surname": "ER",
+      "number": "102",
+      "stdClass": "1/B",
+      "school": "MEMLEKET I.Ö.O"
+    }
+  ]
+}
