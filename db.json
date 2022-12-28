@@ -19,10 +19,18 @@
     {
       "id": "1671118164130",
       "name": "AKIF",
-      "surname": "ER",
+      "surname": "EREN",
       "number": "102",
       "stdClass": "1/B",
       "school": "MEMLEKET I.Ö.O"
+    },
+    {
+      "id": "1671220465561",
+      "name": "SEDAT",
+      "surname": "TESTER",
+      "number": "103",
+      "stdClass": "1/C",
+      "school": "EKREM HAYRI I.Ö.O"
     }
   ]
 }
